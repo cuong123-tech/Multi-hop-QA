@@ -13,3 +13,5 @@ joblib==1.4.2
 pandas==2.2.3
 datasets==3.0.1
 openai==1.40.6
+wikipedia
+gensim
