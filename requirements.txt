@@ -17,3 +17,5 @@ wikipedia
 gensim
 elasticsearch>=8.0.0
 torch
+faiss-cpu
+
